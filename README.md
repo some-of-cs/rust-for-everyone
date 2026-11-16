@@ -9,7 +9,7 @@
 [![Rust Playground](https://img.shields.io/badge/Run%20in-Rust%20Playground-DEA584.svg?logo=rust)](https://play.rust-lang.org/)
 [![Community Discussions](https://img.shields.io/badge/Community-GitHub%20Discussions-8A2BE2.svg?logo=github)](https://github.com/some-of-cs/rust-for-everyone/discussions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%99%A5-ff69b4.svg)](https://github.com/sponsors/some-of-cs)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%99%A5-ff69b4.svg)](https://github.com/sponsors/maheraladdin)
 
 [Learning Paths](#-choose-your-path) •
 [Curriculum & Weekly Folders](#-curriculum--learning-blocks) •
@@ -76,8 +76,7 @@ This repository is the home and discussion hub for **Rust for Everyone** learner
 
 <div align="center">
 
-[![Become a Sponsor](https://img.shields.io/badge/Become%20a%20Sponsor-%E2%99%A5-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/some-of-cs)
-[![Sponsor maheraladdin](https://img.shields.io/badge/Sponsor%20%40maheraladdin-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/maheraladdin)
+[![Become a Sponsor](https://img.shields.io/badge/Become%20a%20Sponsor-%E2%99%A5-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/maheraladdin)
 
 </div>
 
@@ -96,7 +95,7 @@ This repository is the home and discussion hub for **Rust for Everyone** learner
 
 | 🌟 Visionary Sponsors | 🥇 Gold Partners | 🥈 Silver Backers | ☕ Individual Backers |
 | :---: | :---: | :---: | :---: |
-| *Your company logo here*<br>[Become a Visionary Sponsor](https://github.com/sponsors/some-of-cs) | *Your company logo here*<br>[Become a Gold Partner](https://github.com/sponsors/some-of-cs) | *Your company logo here*<br>[Become a Silver Backer](https://github.com/sponsors/some-of-cs) | [Join our Individual Backers](https://github.com/sponsors/maheraladdin) |
+| *Your company logo here*<br>[Become a Visionary Sponsor](https://github.com/sponsors/maheraladdin) | *Your company logo here*<br>[Become a Gold Partner](https://github.com/sponsors/maheraladdin) | *Your company logo here*<br>[Become a Silver Backer](https://github.com/sponsors/maheraladdin) | [Join our Individual Backers](https://github.com/sponsors/maheraladdin) |
 
 </div>
 
