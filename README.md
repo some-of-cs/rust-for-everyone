@@ -9,12 +9,9 @@
 [![Rust Playground](https://img.shields.io/badge/Run%20in-Rust%20Playground-DEA584.svg?logo=rust)](https://play.rust-lang.org/)
 [![Community Discussions](https://img.shields.io/badge/Community-GitHub%20Discussions-8A2BE2.svg?logo=github)](https://github.com/some-of-cs/rust-for-everyone/discussions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Sponsor](https://img.shields.io/badge/Sponsor-♥-ff69b4.svg)](https://github.com/sponsors/maheraladdin)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%99%A5-ff69b4.svg)](https://github.com/sponsors/maheraladdin)
 
-[Learning Paths](#-choose-your-path) · [Curriculum & Weekly Folders](#-curriculum--learning-blocks) ·
-[Learning Timeline](TIMELINE.md) · [B1 Decision Skill](./Week_01/B1_Why-the-World-Is-Moving-to-Rust/skill) ·
-[B2 Responsiveness Skill](./Week_02/B2_Craft-Apps-That-Feel-Fast/skill) ·
-[Community Discussions](#-community--discussions) · [Sponsors](#-backers--corporate-sponsors)
+[Learning Paths](#-choose-your-path) • [Curriculum & Weekly Folders](#-curriculum--learning-blocks) • [Learning Timeline](TIMELINE.md) • [B1 Decision Skill](./Week_01/B1_Why-the-World-Is-Moving-to-Rust/skill) • [Community Discussions](#-community--discussions) • [Sponsors](#-backers--corporate-sponsors)
 
 </div>
 
@@ -27,7 +24,7 @@
 | Path | Who It Serves | Episode Track | What You Will Achieve |
 | :--- | :--- | :--- | :--- |
 | **🛠️ Build with Rust** | People with no programming background & junior developers revisiting foundations | **S1 – S24** *(in order; B episodes add industry context)* | Predict, change, and explain small Rust programs in the browser (`S1–S6`), move to local Cargo projects (`S7+`), and complete a guided service with tests and documentation. |
-| **💼 Evaluate Rust** | Managers, founders, CTOs, recruiters, and engineers making an adoption decision | **B1 – B12** *(S episodes are optional)* | Explain relevant engineering/business tradeoffs and outline a bounded pilot with baseline measurements, payback math, and stop criteria (`REJECT`, `NOT YET`, `GO (pilot)`, `VALIDATED (scale)`). |
+| **📊 Evaluate Rust** | Managers, founders, CTOs, recruiters, and engineers making an adoption decision | **B1 – B12** *(S episodes are optional)* | Explain relevant engineering/business tradeoffs and outline a bounded pilot with baseline measurements, payback math, and stop criteria (`REJECT`, `NOT YET`, `GO (pilot)`, `VALIDATED (scale)`). |
 
 ### How Every Explaining Lesson (`S`) Works
 Every technical episode follows a visible three-step learning loop:
@@ -44,7 +41,7 @@ Every technical episode follows a visible three-step learning loop:
 | Block / Folder | Theme | Explaining Rust (`S` Track) | Business Case (`B` Track) |
 | :--- | :--- | :--- | :--- |
 | **[`Week_01`](./Week_01)** | **Start from zero** | **[S1](./Week_01/S1_What-Code-Is):** What Coding Means, Compilers & Your First Program<br>**[S2](./Week_01/S2_Variables-Types-Decisions):** Variables, Types, Shadowing & Decisions | **[B1](./Week_01/B1_Why-the-World-Is-Moving-to-Rust):** Why the World Is Moving to Rust *(+ [`rust-decision-cycle`](./Week_01/B1_Why-the-World-Is-Moving-to-Rust/skill))* |
-| **[`Week_02`](./Week_02)** | **Making things happen** | **S3:** Loops & Functions<br>**S4:** How a Computer Remembers Things | **[B2](./Week_02/B2_Craft-Apps-That-Feel-Fast):** Craft Apps That Feel Fast *(+ [`app-responsiveness-cycle`](./Week_02/B2_Craft-Apps-That-Feel-Fast/skill) & [Practice](./Week_02/B2_Craft-Apps-That-Feel-Fast/practice))* |
+| **[`Week_02`](./Week_02)** | **Making things happen** | **S3:** Loops & Functions<br>**[S4](./Week_02/S4_How-a-Computer-Remembers-Things):** How a Computer Remembers Things | **B2:** Craft Apps That Feel Fast *(+ `app-responsiveness-cycle`)* |
 | **[`Week_03`](./Week_03)** | **The big idea: Ownership** | **S5:** Ownership — One Thing, One Owner<br>**S6:** Borrowing — Looking Without Taking | **B3:** Garbage Collection & the Discord Story |
 | **[`Week_04`](./Week_04)** | **Real projects & the cost of bugs** | **S7:** Install Rust & Meet Cargo<br>**S8:** Text & Data (`String` vs `&str`) | **B4:** The Real Cost of Bugs |
 | **[`Week_05`](./Week_05)** | **Modeling the world** | **S9:** Structs — Your Own Blueprints<br>**S10:** Enums, `Option` & `match` | **B5:** Should You Actually Use Rust? |
@@ -63,7 +60,7 @@ Every technical episode follows a visible three-step learning loop:
 This repository is the home and discussion hub for **Rust for Everyone** learners and engineering leaders:
 
 1. **Practice in the Browser (`S1–S6`):** Open any episode folder, copy the starter code into [Rust Playground](https://play.rust-lang.org/), change a value, **write down your prediction before pressing Run**, and compare your prediction with the actual output.
-2. **Evaluate Workloads (`B1–B12`):** Use the portable AI skills and bilingual prompts inside the `B` folders (including [`B1` `rust-decision-cycle`](./Week_01/B1_Why-the-World-Is-Moving-to-Rust/skill) and [`B2` `app-responsiveness-cycle`](./Week_02/B2_Craft-Apps-That-Feel-Fast/skill)) to evaluate your own workloads using real metrics.
+2. **Evaluate Workloads (`B1–B12`):** Use the portable AI skills and bilingual prompts inside the `B` folders (starting with [`Week_01/B1_Why-the-World-Is-Moving-to-Rust/skill`](./Week_01/B1_Why-the-World-Is-Moving-to-Rust/skill)) to evaluate your own workloads using real metrics.
 3. **Join the Conversation:** Head over to **[GitHub Discussions](https://github.com/some-of-cs/rust-for-everyone/discussions)** or **[Issues](https://github.com/some-of-cs/rust-for-everyone/issues)** to ask questions about compiler diagnostics (`E0384`, borrow checker rules, etc.), share your boundary test predictions, or discuss bounded Rust pilots.
 
 ---
@@ -74,7 +71,7 @@ This repository is the home and discussion hub for **Rust for Everyone** learner
 
 <div align="center">
 
-[![Become a Sponsor](https://img.shields.io/badge/Become%20a%20Sponsor-♥-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/maheraladdin)
+[![Become a Sponsor](https://img.shields.io/badge/Become%20a%20Sponsor-%E2%99%A5-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/maheraladdin)
 
 </div>
 
@@ -82,8 +79,8 @@ This repository is the home and discussion hub for **Rust for Everyone** learner
 
 | Tier | Monthly | Placement & Benefits |
 | :--- | :--- | :--- |
-| **🌟 Visionary** | $1,000 / mo | Large logo on `README.md` Sponsor Wall · Dedicated mention in curriculum materials · Scoped team onboarding Q&A session |
-| **🥇 Gold Partner** | $500 / mo | Prominent logo on `README.md` Sponsor Wall · Highlighted in learning block releases & community discussions |
+| **🌟 Visionary** | $1,000 / mo | Large logo on `README.md` Sponsor Wall • Dedicated mention in curriculum materials • Scoped team onboarding Q&A session |
+| **🥇 Gold Partner** | $500 / mo | Prominent logo on `README.md` Sponsor Wall • Highlighted in learning block releases & community discussions |
 | **🥈 Silver Backer** | $150 / mo | Company logo, link, and mention on the `README.md` Sponsor Wall |
 | **♥ Individual** | $10 – $50 / mo | Listed on the Individual Backers Wall and recognized in the community |
 
