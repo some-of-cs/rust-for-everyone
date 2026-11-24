@@ -44,5 +44,15 @@ We provide both a ready-to-paste bilingual prompt and a portable AI agent skill 
 
 ---
 
+## 🧪 Hands-On Practice Cases (`./practice`)
+
+Test the `app-responsiveness-cycle` on three realistic startup scenarios with self-check rubrics:
+
+- ❌ **[Case #1 (`REJECT`) — E-Commerce Mobile App (`case_01_ecommerce_reject.md`)](./practice/case_01_ecommerce_reject.md):** `350 ms` scroll freezes from `4 MB` uncompressed JSON payloads and unmemoized `FlatList` cards (stops cleanly at Step 3).
+- ✅ **[Case #2 (`GO — Bounded Pilot`) — Offline-First Editor (`case_02_offline_editor_go.md`)](./practice/case_02_offline_editor_go.md):** `600 ms` local search freezes across 50,000 notes (`82%` CPU indexing/diffing + GC pauses) solved via an isolated Rust core (`FFI`/`WASM`/`Tauri`).
+- ⏸️ **[Case #3 (`NOT YET` Challenge) — Media Chat App (`case_03_not_yet_challenge.md`)](./practice/case_03_not_yet_challenge.md):** Spot the missing mid-tier Android baseline and profiler trace before jumping to a Rust pilot.
+
+---
+
 ## 🎯 Your Action (CTA)
 Profile your slowest mobile or desktop screen on a real mid-tier device, fill in [`skill/app-responsiveness-cycle-prompt.md`](./skill/app-responsiveness-cycle-prompt.md), and share your verdict (`REJECT` vs. `GO`) in [GitHub Discussions](https://github.com/some-of-cs/rust-for-everyone/discussions)!
