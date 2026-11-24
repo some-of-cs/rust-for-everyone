@@ -11,13 +11,18 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%99%A5-ff69b4.svg)](https://github.com/sponsors/maheraladdin)
 
-[Learning Paths](#-choose-your-path) • [Curriculum & Weekly Folders](#-curriculum--learning-blocks) • [Learning Timeline](TIMELINE.md) • [B1 Decision Skill](./Week_01/B1_Why-the-World-Is-Moving-to-Rust/skill) • [Community Discussions](#-community--discussions) • [Sponsors](#-backers--corporate-sponsors)
+[Learning Paths](#-choose-your-path) •
+[Curriculum & Weekly Folders](#-curriculum--learning-blocks) •
+[Learning Timeline](TIMELINE.md) •
+[B1 Decision Skill](./Week_01/B1_Why-the-World-Is-Moving-to-Rust/skill) •
+[Community Discussions](#-community--discussions) •
+[Sponsors](#-backers--corporate-sponsors)
 
 </div>
 
 ---
 
-## 🎯 Choose Your Path
+## 🧭 Choose Your Path
 
 **Rust for Everyone** is designed around two connected tracks so both learners and technical decision-makers get concrete, verifiable outcomes:
 
@@ -41,7 +46,7 @@ Every technical episode follows a visible three-step learning loop:
 | Block / Folder | Theme | Explaining Rust (`S` Track) | Business Case (`B` Track) |
 | :--- | :--- | :--- | :--- |
 | **[`Week_01`](./Week_01)** | **Start from zero** | **[S1](./Week_01/S1_What-Code-Is):** What Coding Means, Compilers & Your First Program<br>**[S2](./Week_01/S2_Variables-Types-Decisions):** Variables, Types, Shadowing & Decisions | **[B1](./Week_01/B1_Why-the-World-Is-Moving-to-Rust):** Why the World Is Moving to Rust *(+ [`rust-decision-cycle`](./Week_01/B1_Why-the-World-Is-Moving-to-Rust/skill))* |
-| **[`Week_02`](./Week_02)** | **Making things happen** | **S3:** Loops & Functions<br>**[S4](./Week_02/S4_How-a-Computer-Remembers-Things):** How a Computer Remembers Things | **B2:** Craft Apps That Feel Fast *(+ `app-responsiveness-cycle`)* |
+| **[`Week_02`](./Week_02)** | **Making things happen** | **[S3](./Week_02/S3_Operators-Loops-Functions):** Operators, `if/else if`, Loops & Functions<br>**S4:** How a Computer Remembers Things | **B2:** Craft Apps That Feel Fast *(+ `app-responsiveness-cycle`)* |
 | **[`Week_03`](./Week_03)** | **The big idea: Ownership** | **S5:** Ownership — One Thing, One Owner<br>**S6:** Borrowing — Looking Without Taking | **B3:** Garbage Collection & the Discord Story |
 | **[`Week_04`](./Week_04)** | **Real projects & the cost of bugs** | **S7:** Install Rust & Meet Cargo<br>**S8:** Text & Data (`String` vs `&str`) | **B4:** The Real Cost of Bugs |
 | **[`Week_05`](./Week_05)** | **Modeling the world** | **S9:** Structs — Your Own Blueprints<br>**S10:** Enums, `Option` & `match` | **B5:** Should You Actually Use Rust? |
@@ -82,13 +87,13 @@ This repository is the home and discussion hub for **Rust for Everyone** learner
 | **🌟 Visionary** | $1,000 / mo | Large logo on `README.md` Sponsor Wall • Dedicated mention in curriculum materials • Scoped team onboarding Q&A session |
 | **🥇 Gold Partner** | $500 / mo | Prominent logo on `README.md` Sponsor Wall • Highlighted in learning block releases & community discussions |
 | **🥈 Silver Backer** | $150 / mo | Company logo, link, and mention on the `README.md` Sponsor Wall |
-| **♥ Individual** | $10 – $50 / mo | Listed on the Individual Backers Wall and recognized in the community |
+| **☕ Individual** | $10 – $50 / mo | Listed on the Individual Backers Wall and recognized in the community |
 
 ### Sponsors & Backers Wall
 
 <div align="center">
 
-| 🌟 Visionary Sponsors | 🥇 Gold Partners | 🥈 Silver Backers | ♥ Individual Backers |
+| 🌟 Visionary Sponsors | 🥇 Gold Partners | 🥈 Silver Backers | ☕ Individual Backers |
 | :---: | :---: | :---: | :---: |
 | *Your company logo here*<br>[Become a Visionary Sponsor](https://github.com/sponsors/maheraladdin) | *Your company logo here*<br>[Become a Gold Partner](https://github.com/sponsors/maheraladdin) | *Your company logo here*<br>[Become a Silver Backer](https://github.com/sponsors/maheraladdin) | [Join our Individual Backers](https://github.com/sponsors/maheraladdin) |
 
